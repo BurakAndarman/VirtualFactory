@@ -16,4 +16,4 @@ You can create your own operations,setup durations,orders and run the program in
 
 # Known Issues ❗
 
-1.Program isn't optimized for large amount of orders (>10000).Therefore it may not give expected results in those cases.
+1.Program isn't optimized for large amount of orders (>~10000).Therefore it may not give expected results in those cases.
