@@ -1,6 +1,6 @@
 # VirtualFactory ⚙ 
 
-Assuming a factory that has a machine and this source code manages it ,the aim is to complete all of given orders before their deadline. While doing that, our top priority is to obtain shortest overall completion time.
+Assume a factory that has a machine and this source code manages it ,the aim is to complete all of given orders before their deadline while obtaining shortest overall completion time.
 
 # Further Explanation 👇
 
