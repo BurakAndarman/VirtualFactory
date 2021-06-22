@@ -1,5 +1,8 @@
-# VirtualFactory
-→ Machine is able to complete operations given in the "Operations.txt" (in this file you can see how much meters it can process per second for each operation type and format of definition).
+# VirtualFactory ⚙ 
+
+# Further Explanation 👇
+
+→ Virtual machine is able to complete operations given in the "Operations.txt" (in this file you can see how much meters it can process per second for each operation type and format of definition).
 
 → Switching between different types of operations takes preperation time and our aim is to minimize averall preperation time (you can examine "SetupDuration.txt" file to see transition durations and format of definition).
 
