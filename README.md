@@ -13,3 +13,7 @@ Assuming a factory that has a machine and this source code manages it ,the aim i
 → Program produces a text file named "Schedule.txt" and in this file you will find a list of completed orders.Each line has passed time,operation type,order code,processed length and switching delay info (you can examine this file also to see format of definition).
 
 You can create your own operations,setup durations,orders and run the program in the same directory to get result specifically for your machine.
+
+# Known Issues ❗
+
+1.Program isn't optimized for large amount of orders (>10000).Therefore it may not give expected results in those cases.
